@@ -1,0 +1,4 @@
+# add packages as each tool needs them, e.g.
+# httpx
+# boto3
+# pytest
